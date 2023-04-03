@@ -9,6 +9,8 @@ Did it help you make a design decision? Was it helpful in addressing the most pr
 issues in your project? How will you incorporate the feedback into your work? Will you
 change something about the design, implementation, or evaluation as a result?
 
+One of the critiques I got is to give more specific examples of graphs that it would create. I figured I would do that because it is something important to sort out before I begin the project anyway. Also, this will really help with explaining more about the project and show why this would have an advantage over using an app. I also got feeback on my argument for the language due to privacy concerns. You could jast make an app that emphasizes privacy. I guess this shouldn't be used as a main argument for this language's creation. I just thought that would be another positive of the language even though it is the main goal I am working towards. Another thing I wasn't clear about was teh logging in the app itself. I will discuss this later in the journal. The feedback on what host language I should use was pretty helpful because it reinforced my own ideas. Overall, the feedback has really helped shape my plan of designing the language. 
+
 ## Description
 
 **TODO:** Fill in this part with information about your work this week:
@@ -17,6 +19,8 @@ exciting milestones, preliminary results, etc. Feel free to include images
 (e.g., a sketch of the design or a screenshot of a running program), links to
 code, and any other resources that you think will help clearly convey your
 design process.
+
+One of my big decisions this week was choosing a host language. 
 
 ## Questions
 
