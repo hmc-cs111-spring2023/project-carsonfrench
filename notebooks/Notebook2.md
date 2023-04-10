@@ -21,12 +21,19 @@ code, and any other resources that you think will help clearly convey your
 design process.
 
 This week I mainly have been working on designing my language in Scastie. I have been trying to set up sbt on GitHub codespaces, but have ran into a lot of issues with that, so I have been using Scastie to test things out while I set that up. I have been playing around with the classes for different types of food entries. Each food has an assigned amount of calories that can be returned. Ideally the foods can also be grouped together into meals. For example, let's say that pizza is 200 calories and soda is 100. To log this as a meal you would enter:
+
 food(pizza, 200)
+
 food(soda, 100)
+
 meal(comboMeal, pizza, soda)
+
 log(comboMeal)
+
 The reasoning behind making it this way is so that if that is a meal that the user repeatedly has, then in order to log it again all the would need to type is just "log(comboMeal)". If it is a meal they they think they will only have once, they could alternatively log it like this:
+
 log(food(pizza, 200), food(soda,100))
+
 This would be faster, but it wouldn't save as a meal. I have been struggling to set up my actual codespace. I haven't really been able to get SBT to work. I hope on Monday I could get some help from my classmates or the professor. Right now my ain problem is that it just gets stuck loading when I try to commit to GitHub. 
 
 ## Questions
