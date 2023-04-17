@@ -26,7 +26,7 @@ The code I wrote handles how to input different foods, meals, and weights. These
 
 One thing I am considering is finding a way to just save variables over time instead of using a csv file. I am not sure if there is a way to store variable on disk, but I will ask in class because that would be way more convenient than using csv files. 
 
-Right now, a new food is automatically saved when an instance of the class Food is created.
+Right now, a new food is automatically saved when an instance of the class Food is created. I still need to add what happens when a food is updated. I am thinking of making the other parameters optional, so if the food already exists then you can just enter the string to log it, but this wouldn't be necessary if I can just use saved variables instead of csv files. 
 
 ## Questions
 
@@ -34,11 +34,17 @@ Right now, a new food is automatically saved when an instance of the class Food 
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+I need to figure out how I am going to store all my data and then start working on the functions for creating graphs. I also need to add a function for tracking weight, but that will be easy. 
+
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+I have added tags to the food class, but would it be helpful to have tags for meals as well? Do you know of any way to save variables to disk, so that when you return to the language, they will still be saved? 
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the work?**
+I probably spent about 6 hours working on this project this week. 
 
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
+This week I definitely made a lot of progress, but I am still a little behind where I want to be. It will definitely be managable to catch up though. 
